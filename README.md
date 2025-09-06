@@ -26,7 +26,7 @@ This project is structured as a clear, four-step pipeline:
 
 ### 1. Clone the Code Repository
 ```bash
-git clone https://github.com/[Your-GitHub-Username]/GeoLocSFT.git
+git clone https://github.com/QiangYi7/GeoLocSFT.git
 cd GeoLocSFT
 ```
 
@@ -122,11 +122,14 @@ python scripts/evaluate_accuracy.py
 If you find our work and this repository useful in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{YourLastName2025GeoLocSFT,
-  title={GeoLocSFT: Efficient Visual Geolocation via Supervised Fine-Tuning of Multimodal Foundation Models},
-  author={Your Name and Co-author Name},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2025}
+@misc{yi2025geolocsftefficientvisualgeolocation,
+      title={GeoLocSFT: Efficient Visual Geolocation via Supervised Fine-Tuning of Multimodal Foundation Models}, 
+      author={Qiang Yi and Lianlei Shan},
+      year={2025},
+      eprint={2506.01277},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2506.01277}, 
 }
 ```
 
