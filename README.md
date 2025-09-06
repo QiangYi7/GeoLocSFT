@@ -1,6 +1,6 @@
 # GeoLocST: Efficient Visual Geolocation via Supervised Fine-Tuning
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv:25XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/[your-arxiv-id])
+[![Paper](https://img.shields.io/badge/Paper-arXiv:25XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2506.01277)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-PIG_R1-blue)](https://huggingface.co/datasets/paidaixing/PIG_R1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,7 +8,7 @@ This is the official implementation of the paper **"GeoLocSFT: Efficient Visual 
 
 Our framework demonstrates that high-quality, structured "geo-caption" data can efficiently adapt large multimodal models for planet-scale visual geolocation, achieving competitive performance with a remarkably small dataset (~2,700 samples).
 
-![GeoLocSFT Approach Comparison](https-placeholder-for-figure1) <!--- 强烈建议您上传论文中的 Figure 1 并替换此链接 --->
+![GeoLocSFT Approach Comparison](https-placeholder-for-figure1) 
 *<p align="center">Figure 1: Comparison between traditional methods (Top) and our reasoning-based GeoLocSFT approach (Bottom).</p>*
 
 ---
